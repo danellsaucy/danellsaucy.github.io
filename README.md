@@ -20,36 +20,8 @@ University of Washington (Seattle, WA)
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- **Deans List**, 5 times in a row.
+- 4.0 GPA
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[University 1]: http://www.uw.edu
