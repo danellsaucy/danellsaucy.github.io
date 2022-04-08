@@ -27,4 +27,4 @@ Summary of your role
 > Danell is a hard working student.
 
 I love corgis
-![Here is my favorite dog (corgi)!](/danellsaucy.github.io/corgi.jpg)
+![Here is my favorite dog (corgi)!](https://www.akc.org/wp-content/uploads/2017/11/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg)
