@@ -26,4 +26,4 @@ Summary of your role
 
 > Danell is a hard working student.
 
-![Here is my favorite dog!](/danellsaucy.github.io./Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg "Corgi")
+![Here is my favorite dog!](/danellsaucy.github.io/assets/corgi.jpg "Corgi")
