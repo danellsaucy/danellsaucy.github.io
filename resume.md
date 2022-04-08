@@ -2,7 +2,7 @@
 
 danellf@uw.edu
 
-http://www.linkedin.com/in/danellfoebes
+http://www.linkedin.com/in/danellforbes
 
 # Summary
 
@@ -17,6 +17,7 @@ Student at the University of Washington with 1 year of experience as a Software 
 ## University Name 1 (City, State)
 
 University of Washington (Seattle, WA)
+UW [University 1](http://www.uw.edu)
 
 Summary of your role
 
@@ -26,5 +27,3 @@ Summary of your role
 > Danell is a hard working student.
 
 ![Here is my favorite dog!](/danellsaucy.github.io./Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg "Corgi")
-
-[University 1]: http://www.uw.edu
